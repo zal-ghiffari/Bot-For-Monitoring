@@ -1,13 +1,11 @@
 # Bot-For-Monitoring
-[![instagram](https://img.shields.io/badge/CONTACT-TELEGRAM-blue)](https://t.me/noghirii)
-[![instagram](https://img.shields.io/badge/CONTACT-INSTAGRAM-red)](https://instagram.com/zazal.ghiffari)
 This is a code to integrate bots that can collect data as agents both in groups and private telegram chats. The data will be pushed and visualized on a google spreadsheet. The concept is almost the same as ELK.
 
 ## Log Bot Screenshot
-![Logo](images/idscmd.JPG)
+![Logo](/images/idscmd.JPG)
 
 ## Monitoring Screenshot
-![Logo](images/sheetsids.JPG)
+![Logo](/images/sheetsids.JPG)
 
 ## How to use?
 
